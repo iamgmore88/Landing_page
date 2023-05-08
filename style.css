@@ -44,7 +44,7 @@ nav {
 .menu ul li a.active{
     cursor:pointer;
     border-bottom:4px solid #5243C0;
-    transition:all 0.2s;
+    
 }
 
 .right {
