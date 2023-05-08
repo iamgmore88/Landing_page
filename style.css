@@ -42,7 +42,7 @@ nav {
 
 .menu ul li:hover,
 .menu ul li a.active{
-    cursor:ponter;
+    cursor:pointer;
     border-bottom:4px solid #5243C0;
 }
 
