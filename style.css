@@ -102,10 +102,13 @@ a{
     justify-content:space-between;
     margin:0 auto;
 }
+.container .card{
+    margin:0 auto;}
+
 .landing{
-    margin-top:60px;
-    margin-right:25px;
-/*     margin:0 auto; */
+/*     margin-top:60px; */
+/*     margin-right:25px; */
+    margin:0 auto;
 }
 .landing img{
     height:400px;
