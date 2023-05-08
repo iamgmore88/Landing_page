@@ -136,7 +136,7 @@ a{
 .container ul li:hover,
 .container ul li.active{
     cursor:pointer;
-    background:#fff;
+    background:#ffffff;
     transform:scale(1.1);
 }
 
